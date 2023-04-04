@@ -19,8 +19,8 @@ export default function Home({ allPostsData }) {
         <section className="flex flex-col items-center text-center">
           <p>
             Hey, I'm Nikita, an interface designer and developer. I enjoy
-            crafting beautiful and easy-to-use user interface, and building it
-            with code.
+            crafting beautiful and easy-to-use user interfaces, and building
+            them with code.
           </p>
           <p className="text-sm text-neutral-500 max-w-xs mt-6">
             (This is a sample website - you’ll be building a site like this on{" "}

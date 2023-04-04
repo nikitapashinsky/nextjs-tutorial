@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/pfp.jpg"
+              src="/images/pfp.jpeg"
               className="rounded-full"
               height={144}
               width={144}
